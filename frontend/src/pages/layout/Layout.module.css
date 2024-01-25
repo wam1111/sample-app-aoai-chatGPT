@@ -26,7 +26,7 @@
     font-weight: 600;
     font-size: 20px;
     line-height: 28px;
-    display: flex;
+    display: none;
     align-items: flex-end;
     color: #242424;
 }
